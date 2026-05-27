@@ -88,14 +88,6 @@ Focused on building scalable, maintainable, and production-ready systems.
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aprias24&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aprias24&layout=compact&theme=tokyonight)
-
----
-
 # ⚡ Fun Fact
 
 I enjoy refactoring messy backend systems into scalable architectures and debugging low-level database structures byte-by-byte.
