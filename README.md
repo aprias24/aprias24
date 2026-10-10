@@ -34,7 +34,6 @@ Focused on building scalable, maintainable, and production-ready systems.
   - Dynamic subdomain & tenant management systems
 
 - ⚡ Experience with:
-  - Traefik Reverse Proxy
   - Nginx
   - Wildcard SSL & Cloudflare
   - Linux Server Administration
