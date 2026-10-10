@@ -10,7 +10,6 @@ Focused on building scalable, maintainable, and production-ready systems.
 - 🔧 Backend Developer specializing in:
   - Node.js / TypeScript
   - Next.js API & Backend Architecture
-  - Go (Golang)
   - PostgreSQL & Prisma ORM
   - Docker & VPS Deployment
   - Multi-tenant SaaS Architecture
@@ -58,7 +57,6 @@ Focused on building scalable, maintainable, and production-ready systems.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## Database
